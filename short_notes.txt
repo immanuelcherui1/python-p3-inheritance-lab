@@ -1,0 +1,1 @@
+you must import random when using it in a file.
